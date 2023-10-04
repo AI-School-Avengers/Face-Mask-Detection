@@ -1,6 +1,9 @@
 # Face-Mask-Detection
 Face Mask Detector using Deep Learning
 
+[프로젝트 파일 링크](https://drive.google.com/file/d/1Uhx1v_aQ3sfvWKQuEAWwU5JweEa0t74f/view?usp=sharing).
+
+
 <br>
 
 ## 프로젝트 요약
